@@ -1,4 +1,4 @@
-# Solana Minting Bot
+# MagicEden minting bot
 
 ---
 
