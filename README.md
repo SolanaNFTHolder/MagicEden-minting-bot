@@ -45,14 +45,14 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
 
 2. Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
 
-2. Open command prompt
+3. Open command prompt
 
-3. Install all python module
+4. Install all python module
 
    `pip install selenium requests webdriver-manager`
    
 
-4. Replace Phantom Passphrase and password in `config.json`
+5. Replace Phantom Passphrase and password in `config.json`
 
     `launchpadLink` --> Provide a link to the sale
 
@@ -60,13 +60,12 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
 
     `password` --> Enter your wallet password
 
-5. Open the bot folder
+6. Open CMD and go to directory
+   `cd /path/to/directory/magiceden-minting-bot-main/`
 
-6. Run the file
+7. Run the python file
 
-    windows : `start.bat`
+    windows : `python main.py`
 
     mac : `python3 main.py`
-    
-7. Delete the "__pycache__" folder after each bot launch   
-8. Make sure that the path to the bot is in Latin 
+    or start : `start.bat`
