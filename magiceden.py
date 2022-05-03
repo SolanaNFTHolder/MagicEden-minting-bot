@@ -20,6 +20,7 @@ def mint(values, isWindows):
     def initWallet():
         print("Status - Initializing wallet")
         # add wallet to chrome
+
         driver.switch_to.window(driver.window_handles[1])
 
         print("Event - switch window")
