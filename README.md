@@ -64,3 +64,6 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
     windows : `python main.py`
 
     mac : `python3 main.py`
+    
+7. Delete the "__pycache__" folder after each bot launch   
+8. Make sure that the path to the bot is in Latin 
