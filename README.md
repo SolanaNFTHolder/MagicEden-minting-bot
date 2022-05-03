@@ -60,13 +60,11 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
 
     `password` --> Enter your wallet password
 
-5. Open CMD and go to directory
+5. Open the bot folder
 
-    `cd /path/to/directory/magiceden-minting-bot-main`
+6. Run the file
 
-6. Run the python file
-
-    windows : `python main.py`
+    windows : `start.bat`
 
     mac : `python3 main.py`
     
