@@ -54,15 +54,15 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
 
 4. Replace Phantom Passphrase and password in `config.json`
 
-    `launchpadLink` --> Launchpad link on magic eden
+    `launchpadLink` --> Provide a link to the sale
 
-    `seedPhrase` --> your phantom wallet passphrase (Careful do not share this key)
+    `seedPhrase` --> Specify the passphrase wallet (Careful do not share this key)
 
-    `password` --> A password for your wallet
+    `password` --> Enter your wallet password
 
 5. Open CMD and go to directory
 
-    `cd /path/to/directory/magiceden-mint-bot/windows`
+    `cd /path/to/directory/magiceden-mint-bot-main`
 
 6. Run the python file
 
