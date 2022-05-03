@@ -33,11 +33,11 @@ You can support me with some SOL : CUT41x3ZmXdh8nqY1W9c5c8wp4mGzU4VE9wnnxJTsRDf
 
 1. Clone the repository / Download zip file
 
-    `git clone https://github.com/SolanaNFTCollector/Solana-Minting-Bot.git`
+    `https://github.com/SolanaNFTHolder/MagicEden-minting-bot.git`
 
     OR
 
-    [Download Zip File](https://github.com/SolanaNFTCollector/Solana-Minting-Bot/archive/refs/heads/main.zip)
+    [Download Zip File](https://github.com/SolanaNFTHolder/MagicEden-minting-bot/archive/refs/heads/main.zip)
     
 
 2. Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
