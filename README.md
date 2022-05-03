@@ -34,7 +34,7 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
 
 ## Tutorial
 
-1. Clone the repository / Download zip file
+1. Clone the repository / Download zip file (to the root of disk C:)
 
     `https://github.com/SolanaNFTHolder/MagicEden-minting-bot.git`
 
