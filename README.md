@@ -1,0 +1,1 @@
+# MagicEden-minting-bot
