@@ -62,7 +62,7 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
 
 5. Open CMD and go to directory
 
-    `cd /path/to/directory/magiceden-mint-bot-main`
+    `cd /path/to/directory/magiceden-minting-bot-main`
 
 6. Run the python file
 
