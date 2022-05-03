@@ -6,6 +6,14 @@ This bot will help you mint all the Magic Eden NFT's projects, This bot of does 
 
 Easy setup which uses ChromeDriver to open up a new chrome instance and mint the nft you are looking for quicker than a human. **This bot does not guarantee you will get your NFT**, this bot simply goes faster than humans to mint and automates everything since you do not have to click yourself.
 
+This bot sends a request to the magiceden server.
+
+There will be no 0.01SOL commission
+
+Make sure the time on your computer is set correctly.
+
+
+
 You can **launch multiple instances of the bot to bypass minting limit / wallet**
 
 ---
@@ -15,9 +23,6 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
 -   [x] Window
 -   [x] Mac (Intel + m1)
 -   [x] Linux (Not verified)
-
--   [x] MagicEden.io
--   [x] MonkeLabs.io
 
 ---
 
