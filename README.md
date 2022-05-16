@@ -11,7 +11,7 @@ Easy setup which uses ChromeDriver to open up a new chrome instance and mint the
 - There will be no 0.01SOL commission
 
 - Make sure the time on your computer is set correctly.
-- For Support: BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB (sol)
+- For Support: 7XGhYc1dDAzrAjqV2nhLjHQ9nLzmZ1VSqRTggjbt3SoM (sol)
 
 
 You can **launch multiple instances of the bot to bypass minting limit / wallet**
